@@ -5,8 +5,8 @@
  <body>
 
 <?php
-if(condition)
-date('F', time(Agosto))
+$F = date("F")
+if date("F", time(Agosto))
 {
 	echo"Esta calor";
 
