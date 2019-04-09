@@ -5,9 +5,9 @@
  <body>
 
 <?php
-$F = date("F")
-if date("F", time(Agosto))
-{
+$F = date("Agosto")
+ date( string $F [, int $F ] ) : string{
+
 	echo"Esta calor";
 
 }
